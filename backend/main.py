@@ -65,23 +65,6 @@ def main():
                 if(r.status_code != 404):
                     # dataにogpの画像のurlを追加
                     data['ogp_image_url'] = og_img['content']
-                    #---------------------
-                    print('\n')
-                    print(og_img['content'])
-                    print('\n')
-                    print(imageUrltmp[0:6])
-                    print('\n')
-                    imageUrltmp = og_img['content']
-                    if imageUrltmp[0:6] != 'https':
-                      print('image save...')
-                      print('\n')
-                      r = requests.get(og_img['content'], stream=True)
-                      if r.status_code == 200:
-                        with open(data['id'] + '.jpg', "wb") as f:
-                          f.write(r.content)
-                      data['ogp_image_url'] = 'https://raw.githubusercontent.com/OHMORIYUSUKE/animeapp-deploy/master/'+data['id']+'.jpg'
-                      print('image save!!')
-                    #---------------------ImageURL変更
                     # dataにogpの説明を追加
                     data['ogp_description'] = og_description['content']
                     print(og_description['content'])
