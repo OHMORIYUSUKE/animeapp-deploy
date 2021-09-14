@@ -1,4 +1,4 @@
-import { Box, Image, Badge, Center } from "@chakra-ui/react";
+import { Box, Image, Center } from "@chakra-ui/react";
 import Noimage from "../images/noimage.jpg";
 import { Link } from "react-router-dom";
 

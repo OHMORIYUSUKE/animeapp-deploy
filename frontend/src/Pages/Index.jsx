@@ -1,16 +1,7 @@
 import axios from "axios";
 import React, { useState, useEffect } from "react";
-import { Link } from "react-router-dom";
 import Card from "../components/Card";
-import {
-  Grid,
-  GridItem,
-  Box,
-  Text,
-  Alert,
-  AlertIcon,
-  Center,
-} from "@chakra-ui/react";
+import { Grid, Box, Text, Alert, AlertIcon, Center } from "@chakra-ui/react";
 import { FormControl, FormLabel, Select } from "@chakra-ui/react";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
