@@ -4,12 +4,11 @@ import requests
 import json
 import datetime
 
-
 def main():
   dt_now = datetime.datetime.now()
   print(dt_now.year)
 
-  yearlist = list(range(2013, dt_now.year, 1))
+  yearlist = list(range(2013, dt_now.year + 1, 1))
   print(yearlist)
 
   year_cool_list = []
@@ -35,7 +34,7 @@ def main():
     if(len(json_data) == 0):
         print(json.dumps({'message': 'no_data'}))
         #------------------書き込み------------------
-        with open('data/'+year + '-' + cool + '.json', 'w') as f:
+        with open(year + '-' + cool + '.json', 'w') as f:
             f.write(json.dumps({'message': 'no_data'}))
             continue
     # 最後に返すJSON
@@ -91,7 +90,7 @@ def main():
     #-----------------------------書き込み----------------------------------------
 
     j = json.dumps(json_data_addOGPimage, indent=2, ensure_ascii=False)
-    with open('data/'+year + '-' + cool + '.json', 'w') as f:
+    with open(year + '-' + cool + '.json', 'w') as f:
         f.write(j)
 
 if __name__=="__main__":
