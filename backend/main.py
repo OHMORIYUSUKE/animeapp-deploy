@@ -61,6 +61,12 @@ def main():
                 if(r.status_code != 404):
                     # dataにogpの画像のurlを追加
                     data['ogp_image_url'] = og_img['content']
+                    #-----------------------画像保存------------------------------
+                    r = requests.get(og_img['content'], stream=True)
+                    if r.status_code == 200:
+                      with open(data['id'] + '.jpg', "wb") as f:
+                        f.write(r.content)
+                    #-----------------------------------------------------
                     # dataにogpの説明を追加
                     data['ogp_description'] = og_description['content']
                     print(og_description['content'])
