@@ -1,6 +1,5 @@
 import React from "react";
-import ReactDOM from "react-dom";
-import { BrowserRouter as Router, useParams } from "react-router-dom";
+import { BrowserRouter as useParams } from "react-router-dom";
 import {
   Center,
   Box,
