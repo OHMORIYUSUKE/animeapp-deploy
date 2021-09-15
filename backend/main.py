@@ -65,11 +65,6 @@ def main():
                 if(r.status_code != 404):
                     # dataにogpの画像のurlを追加
                     data['ogp_image_url'] = og_img['content']
-                    #---
-                    urlflag = data['ogp_image_url']
-                    if urlflag[0:6] != 'https':
-                      data['ogp_image_url'] = 'not_found'
-                    #---
                     # dataにogpの説明を追加
                     data['ogp_description'] = og_description['content']
                     print(og_description['content'])
