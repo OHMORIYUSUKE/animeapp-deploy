@@ -1153,5 +1153,26 @@
     "product_companies": "INDIVISION、エカチエピルカ",
     "ogp_image_url": "not_found",
     "ogp_description": "not_found"
+  },
+  {
+    "id": 1440,
+    "title": "鬼滅の刃 無限列車編／遊郭編",
+    "title_short1": "鬼滅の刃",
+    "title_short2": "",
+    "title_short3": "",
+    "title_en": "",
+    "public_url": "https://kimetsu.com/anime/",
+    "twitter_account": "kimetsu_off",
+    "twitter_hash_tag": "鬼滅の刃",
+    "cours_id": 0,
+    "created_at": "2021-09-25T12:00:00Z",
+    "updated_at": "2021-09-25T12:00:00Z",
+    "sex": 0,
+    "sequel": 2,
+    "city_code": 0,
+    "city_name": "",
+    "product_companies": "ufotable",
+    "ogp_image_url": "https://kimetsu.com/anime/ogp.png",
+    "ogp_description": "アニメ「鬼滅の刃」公式ポータルサイト"
   }
 ]
