@@ -626,7 +626,7 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "ゼロジー",
-    "ogp_image_url": "https://rikekoi.com/wp-content/themes/rikekoi/assets/images/ogp.png",
+    "ogp_image_url": "https://rikekoi.com/wp-content/themes/rikekoi/assets/images/ogp_s2.png",
     "ogp_description": "理系が恋に落ちたので証明してみた。アニメ化決定！！「……私、貴方のこと好きみたい」「よし！ この恋、証明するぞ！」研究に情熱をそそぐ、理系女子と理系男子がもし恋に落ちたら？大人気コミックス「リケ恋」がいよいよアニメ化！"
   },
   {
@@ -773,8 +773,8 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "ブレインズ・ベース",
-    "ogp_image_url": "https://kyokousuiri.jp/ogp.jpg",
-    "ogp_description": "アニメ『虚構推理』公式サイト。2020年1月放送予定"
+    "ogp_image_url": "https://kyokousuiri.jp/ogp2.jpg",
+    "ogp_description": "TVアニメ『虚構推理 Season2』公式サイト。2022年放送"
   },
   {
     "id": 1098,
