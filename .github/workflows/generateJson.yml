@@ -1,4 +1,5 @@
 on:
+  push:
   schedule:
     - cron: "0 0 * * *"
 
@@ -30,5 +31,5 @@ jobs:
           git config user.email github-actions@github.com
           git add .
           git commit -m "Generate Json"
-          git pull
+          git config pull.rebase false
           git push
