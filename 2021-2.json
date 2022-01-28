@@ -521,8 +521,8 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "project No.9",
-    "ogp_image_url": "not_found",
-    "ogp_description": "not_found"
+    "ogp_image_url": "http://higehiro-anime.com/wp-content/themes/higehiro/images/higehiro-og02.jpg",
+    "ogp_description": "2021年放送開始予定。"
   },
   {
     "id": 1307,
@@ -584,7 +584,7 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "P.I.C.S.×OLM",
-    "ogp_image_url": "https://oddtaxi.jp/wp-content/themes/oddtaxi/images/assets/ogp.jpg",
+    "ogp_image_url": "https://oddtaxi.jp/wp-content/themes/oddtaxi2/anime/images/src/anime/assets/ogp.jpg",
     "ogp_description": "主演・花江夏樹 × 芸人 × 脚本・此元和津也 × 音楽・PUNPEEによるオリジナルTVアニメーション"
   },
   {
