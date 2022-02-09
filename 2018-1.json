@@ -353,8 +353,8 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "",
-    "ogp_image_url": "http://slow-start.com/shared/images/common/og.jpg",
-    "ogp_description": "『ご注文はうさぎですか？』の橋本裕之監督と『アイドルマスターシリーズ』のA-1 Picturesが「まんがタイムきらら」人気作品をTVアニメ化！"
+    "ogp_image_url": "not_found",
+    "ogp_description": "not_found"
   },
   {
     "id": 691,
@@ -584,8 +584,8 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "",
-    "ogp_image_url": "not_found",
-    "ogp_description": "not_found"
+    "ogp_image_url": "http://gdmen.net/img/ogp_thumnail.jpg",
+    "ogp_description": "TVアニメ『gdメン（ぐだメン） gdgd men’s party』の公式サイト。2018年1月 テレビ放送スタート！"
   },
   {
     "id": 702,
