@@ -290,7 +290,7 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "キネマシトラス、ぎふとアニメーション、STUDIOJEMI",
-    "ogp_image_url": "https://anime.cf-vanguard.com/overdress/wordpress/wp-content/themes/willdress/assets/images/common/common/ogp_willdress.png",
+    "ogp_image_url": "https://anime.cf-vanguard.com/vgd/wordpress/wp-content/themes/willdress/assets/images/common/common/ogp_willdress.png",
     "ogp_description": "未来は、ここにある 2022年7月より放送開始！"
   },
   {
@@ -521,8 +521,8 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "project No.9",
-    "ogp_image_url": "http://higehiro-anime.com/wp-content/themes/higehiro/images/higehiro-og02.jpg",
-    "ogp_description": "2021年放送開始予定。"
+    "ogp_image_url": "not_found",
+    "ogp_description": "not_found"
   },
   {
     "id": 1307,
@@ -647,7 +647,7 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "ディオメディア",
-    "ogp_image_url": "https://seijyonomaryoku.jp/ogp.jpg",
+    "ogp_image_url": "https://seijyonomaryoku.jp/core_sys/images/others/ogp.jpg",
     "ogp_description": "突然の聖女召喚は、異世界スローライフの始まりでした――　原作：橘由華『聖女の魔力は万能です』（カドカワＢＯＯＫＳ刊）、監督：井畑翔太、シリーズ構成：渡航、キャラクターデザイン：石川雅一、アニメーション制作：ディオメディア"
   },
   {
