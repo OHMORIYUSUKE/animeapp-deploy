@@ -122,7 +122,7 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "",
-    "ogp_image_url": "https://yurucamp.jp/camping/content/themes/ycp-pc/ogp_portal.jpg",
+    "ogp_image_url": "https://yurucamp.jp/camping/content/themes/ycp-v2/ogp_portal.jpg",
     "ogp_description": "TVアニメ『ゆるキャン△』公式サイト 原作あfろ、芳文社「COMIC FUZ」にて好評連載中の「ゆるキャン△」。TVアニメの続編シリーズとしてショートアニメ「へやキャン△」が2020年1月より放送決定！！"
   },
   {
@@ -290,8 +290,8 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "",
-    "ogp_image_url": "not_found",
-    "ogp_description": "not_found"
+    "ogp_image_url": "http://citrus-anime.com/images/fb_img.png",
+    "ogp_description": "TVアニメ『citrus』公式サイト。純情ギャル×黒髪生徒会長＝×××　2018年1月よりTV放送開始！"
   },
   {
     "id": 688,
@@ -521,8 +521,8 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "",
-    "ogp_image_url": "https://takagi3.me/assets/og/ogp_3rd3.jpg",
-    "ogp_description": "TVアニメ『からかい上手の高木さん３』公式サイト 2022年1月7日よりMBS／TBS系全国28局ネット“スーパーアニメイズム”枠にて毎週金曜25時25分〜放送スタート！2022年映画公開予定！"
+    "ogp_image_url": "https://takagi3.me/assets/og/ogp_movie.jpg",
+    "ogp_description": "劇場版『からかい上手の高木さん』公式サイト 6月10日(金)公開決定！"
   },
   {
     "id": 699,
