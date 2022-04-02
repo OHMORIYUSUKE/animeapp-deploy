@@ -38,8 +38,8 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "CloverWorks",
-    "ogp_image_url": "https://shadowshouse-anime.com/ogp_april.png",
-    "ogp_description": "この館で実写化があるらしい。「シャドーハウス」パペットで待望の実写映画化。"
+    "ogp_image_url": "https://shadowshouse-anime.com/ogp.jpg",
+    "ogp_description": "「この館にはまだ“秘密”がある」"
   },
   {
     "id": 1284,
@@ -521,8 +521,8 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "project No.9",
-    "ogp_image_url": "not_found",
-    "ogp_description": "not_found"
+    "ogp_image_url": "http://higehiro-anime.com/wp-content/themes/higehiro/images/higehiro-og02.jpg",
+    "ogp_description": "2021年放送開始予定。"
   },
   {
     "id": 1307,
