@@ -521,8 +521,8 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "project No.9",
-    "ogp_image_url": "http://higehiro-anime.com/wp-content/themes/higehiro/images/higehiro-og02.jpg",
-    "ogp_description": "2021年放送開始予定。"
+    "ogp_image_url": "not_found",
+    "ogp_description": "not_found"
   },
   {
     "id": 1307,
@@ -1004,8 +1004,8 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "ブレインズ・ベース",
-    "ogp_image_url": "https://anime-fumetsunoanatae.com/assets/images/og/og-image_ja.jpg",
-    "ogp_description": "アニメ「不滅のあなたへ」NHK Eテレ 毎週月曜　午後10:50から放送（全20話）"
+    "ogp_image_url": "https://anime-fumetsunoanatae.com/assets/images/og/og-image_2nd_ja.jpg",
+    "ogp_description": "不滅のあなたへ Season2 2022年秋 放送"
   },
   {
     "id": 1330,
