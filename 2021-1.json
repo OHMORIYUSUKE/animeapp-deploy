@@ -17,7 +17,7 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "BN Pictures",
-    "ogp_image_url": "http://www.aikatsu.net/img/og.jpg",
+    "ogp_image_url": "https://www.aikatsu.net/img/og.jpg",
     "ogp_description": "劇場でも、なりたい私へミラーイン☆「劇場版アイカツプラネット！」2022年7月15日公開！"
   },
   {
@@ -375,7 +375,7 @@
     "city_name": "",
     "product_companies": "CloverWorks",
     "ogp_image_url": "https://neverland-anime.com/yakuneba2_og.png",
-    "ogp_description": "2021年1月7日より毎週木曜25:25からフジテレビ“ノイタミナ”ほかにて放送開始"
+    "ogp_description": "Blu-ray＆DVD シリーズ発売中。各配信プラットフォームにて配信中。"
   },
   {
     "id": 1245,
@@ -584,7 +584,7 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "ボンズ",
-    "ogp_image_url": "https://sk8-project.com/ogp2.jpg",
+    "ogp_image_url": "https://sk8-project.com/ogp.png?220727",
     "ogp_description": "内海紘子×大河内一楼×ボンズ＝∞　最強タッグで送る青春スケートボードバトル!!"
   },
   {
@@ -1005,7 +1005,7 @@
     "city_name": "",
     "product_companies": "バイブリーアニメーションスタジオ",
     "ogp_image_url": "https://www.tbs.co.jp/anime/5hanayome/img/ogp.jpg",
-    "ogp_description": "映画「五等分の花嫁」2022年5月20日公開決定！"
+    "ogp_description": "映画「五等分の花嫁」大ヒット上映中！"
   },
   {
     "id": 1275,
@@ -1152,6 +1152,6 @@
     "city_name": "",
     "product_companies": "シンエイ動画/ジャパングリーンハーツ",
     "ogp_image_url": "https://molcar-anime.com/wp-content/themes/molcar-anime/images/ogp.jpg",
-    "ogp_description": "見里朝希監督作品 テレビアニメ『PUI PUI モルカー』公式サイト。 ©見里朝希JGH・シンエイ動画／モルカーズ"
+    "ogp_description": "プイプイ！ワクワク！大暴走？！TVアニメ 『PUI PUI モルカー DRIVING SCHOOL』2022年10月放送！"
   }
 ]

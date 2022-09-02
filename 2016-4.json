@@ -332,7 +332,7 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "",
-    "ogp_image_url": "http://g-tekketsu.com/logo180629.jpg",
+    "ogp_image_url": "http://g-tekketsu.com/logo180629.jpg?v2",
     "ogp_description": "スマホアプリ「機動戦士ガンダム 鉄血のオルフェンズG」22年春に配信決定！さらに『鉄血のオルフェンズ』特別編を22年春放送予定！"
   },
   {
@@ -795,7 +795,7 @@
     "city_name": "",
     "product_companies": "",
     "ogp_image_url": "http://anime-eupho.com/img/social.jpg",
-    "ogp_description": "アニメ『響け！ユーフォニアム』の最新情報はこちらをチェック！ 公式吹奏楽コンサート Blu-ray＆DVD 12/15発売！"
+    "ogp_description": "2023年「アンサンブルコンテスト編」Blu-ray発売・劇場特別上映決定！ 2024年「久美子3年生編」TVシリーズ放送決定！"
   },
   {
     "id": 450,
@@ -1130,8 +1130,8 @@
     "city_code": 13102,
     "city_name": "東京都中央区佃",
     "product_companies": "",
-    "ogp_image_url": "not_found",
-    "ogp_description": "not_found"
+    "ogp_image_url": "http://www.nhk.or.jp/anime/3lion/common/images-r2/og_img4.jpg?date=s2v4",
+    "ogp_description": "これは、様々な人間が何かを取り戻していく、優しい物語。そして、戦いの物語。"
   },
   {
     "id": 466,

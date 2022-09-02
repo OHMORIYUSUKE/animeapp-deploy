@@ -290,8 +290,8 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "",
-    "ogp_image_url": "https://www.bandainamcoent.co.jp/img/common/ogp.png?20220401",
-    "ogp_description": "バンダイナムコエンターテインメントの公式サイトです。スマートフォン向けゲームアプリや家庭用ゲーム、ライブ、イベントなど、多彩なエンターテインメントをお届けしています。"
+    "ogp_image_url": "https://tales-ch.jp/images/common/img_talesch.jpg",
+    "ogp_description": "「テイルズチャンネル＋」は『テイルズ オブ』シリーズの公式ポータルサイトです。"
   },
   {
     "id": 379,
@@ -899,7 +899,7 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "",
-    "ogp_image_url": "https://mobpsycho100.com/assets/images/common/ogp.jpg",
+    "ogp_image_url": "https://mobpsycho100.com/wp-content/themes/mobpsycho3rd/assets/images/common/ogp_0807.jpg",
     "ogp_description": "『モブサイコ100』100になったとき何かが起こる青春サイキックストーリー"
   },
   {

@@ -101,8 +101,8 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "",
-    "ogp_image_url": "https://psycho-pass.com/img/ogp.png",
-    "ogp_description": "『PSYCHO-PASS サイコパス ３ FIRST INSPECTOR』2020.3.27(FRI) 2週間限定ロードショー。Amazon Prime Video日本・海外 独占配信。裁くのは、神か正義か。監督：塩谷直義、アニメーション制作：Production I.Gが手掛けるオリジナルSFアニメーション。"
+    "ogp_image_url": "https://psycho-pass.com/assets/og/ogp.jpg",
+    "ogp_description": "2022年10月10周年プロジェクト始動！最新作『劇場版 PSYCHO-PASS サイコパス PROVIDENCE』制作決定！監督：塩谷直義、アニメーション制作：Production I.Gが手掛けるオリジナルSFアニメーション。"
   },
   {
     "id": 91,
@@ -290,8 +290,8 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "",
-    "ogp_image_url": "http://yowapeda.com/assets/img/common/fb.jpg",
-    "ogp_description": "原作：渡辺航（秋田書店「週刊少年チャンピオン」連載）、自転車ロードレースアニメ「弱虫ペダル」TVアニメ公式ホームページ！"
+    "ogp_image_url": "not_found",
+    "ogp_description": "not_found"
   },
   {
     "id": 100,
@@ -395,7 +395,7 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "",
-    "ogp_image_url": "http://www.g-reco.net/common/images/og_img.png?2203",
+    "ogp_image_url": "http://www.g-reco.net/common/images/og_img.png?220722",
     "ogp_description": "さらなる進化を経て、Ⅳ、Ⅴ、2部作連続公開でついに完結！"
   },
   {
@@ -458,7 +458,7 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "",
-    "ogp_image_url": "http://girlfriend-kari-anime.jp/wp-content/themes/gfkari_anime_wp/assets/images/common/facebook.jpg?3.2.7",
+    "ogp_image_url": "https://girlfriend-kari-anime.jp/contents/ui/theme/assets/images/common/facebook.jpg",
     "ogp_description": "毎週日曜深夜1時35分〜テレビ東京にて放送中！テレビ大阪・テレビ愛知・AT-Xも放送決定☆"
   },
   {

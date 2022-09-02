@@ -38,8 +38,8 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "CloverWorks",
-    "ogp_image_url": "https://shadowshouse-anime.com/ogp.jpg",
-    "ogp_description": "「この館にはまだ“秘密”がある」"
+    "ogp_image_url": "https://shadowshouse-anime.com/ogp2.jpg",
+    "ogp_description": "「この館にはまだ“秘密”がある」2022年7月8日(金) 24:00より放送開始"
   },
   {
     "id": 1284,
@@ -165,7 +165,7 @@
     "city_name": "",
     "product_companies": "ブリッジ",
     "ogp_image_url": "https://shamanking-project.com/wp/wp-content/themes/shamanking_202107/_assets/images/ogp_202111.png",
-    "ogp_description": "シリーズ累計3,500万部突破の武井宏之先生による大人気コミックス『SHAMAN KING』が、装いを新たにシリーズを最後まで描き切る、2021年4月に完全新作TVアニメ化決定！"
+    "ogp_description": "TVアニメ『SHAMAN KING』好評配信中"
   },
   {
     "id": 1290,
@@ -185,7 +185,7 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "BNピクチャーズ・亜細亜堂",
-    "ogp_image_url": "http://www.zorori.jp/logo.jpg?v=210402",
+    "ogp_image_url": "http://www.zorori.jp/logo.jpg?v=220406",
     "ogp_description": "第3シリーズ NHK Eテレにて毎週水曜日よる7時より放送中！（放送日時は変更になる場合があります）"
   },
   {
@@ -291,7 +291,7 @@
     "city_name": "",
     "product_companies": "キネマシトラス、ぎふとアニメーション、STUDIOJEMI",
     "ogp_image_url": "https://anime.cf-vanguard.com/vgd/wordpress/wp-content/themes/willdress/assets/images/common/common/ogp_willdress.png",
-    "ogp_description": "未来は、ここにある 2022年7月より放送開始！"
+    "ogp_description": "「カードファイト!! ヴァンガード will+Dress(ウィルドレス)」が2022年7月より放送開始！"
   },
   {
     "id": 1296,
@@ -605,8 +605,8 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "シンエイ動画／TIA",
-    "ogp_image_url": "https://iii-icecrin.com/share.png?v2",
-    "ogp_description": "「iiiあいすくりん」2021年10月5日（火）よりテレビ東京系「きんだーてれび」内にて再放送！毎週火曜あさ7時30分放送。きょうもみんなで ハバ、アイスデー！"
+    "ogp_image_url": "https://iii-icecrin.com/share_v2.png",
+    "ogp_description": "新シリーズ「iiiあいすくりん2（あいあいあい あいすくりん ダブル）」毎週土曜あさ7時よりテレビ東京「イニミニマニモ」内にて放送中！きょうもみんなで ハバ、アイスデー！"
   },
   {
     "id": 1311,
@@ -1047,7 +1047,7 @@
     "city_name": "",
     "product_companies": "BNピクチャーズ",
     "ogp_image_url": "http://www6.nhk.or.jp/anime/program/common/images/iruma/og_image.jpg",
-    "ogp_description": "思いっきり 問題児<アブノーマル>で行こうぜ！ 第2シリーズ Eテレにて放送！"
+    "ogp_description": "思いっきり 問題児<アブノーマル>で行こうぜ！ "
   },
   {
     "id": 1332,
@@ -1088,8 +1088,8 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "テレコム・アニメーションフィルム",
-    "ogp_image_url": "https://www.nagatorosan.jp/ogp.png",
-    "ogp_description": "「イジらないで、長瀞さん」TVアニメ第2期制作決定！！"
+    "ogp_image_url": "https://www.nagatorosan.jp/ogp2.png",
+    "ogp_description": "TVアニメ「イジらないで、長瀞さん 2nd Attack」2023年1月放送！"
   },
   {
     "id": 1334,
@@ -1214,8 +1214,8 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "DMM.futureworks/ダブトゥーンスタジオ",
-    "ogp_image_url": "https://yuyuyu.tv/churutto/img/ogp.jpg?4",
-    "ogp_description": ""
+    "ogp_image_url": "not_found",
+    "ogp_description": "not_found"
   },
   {
     "id": 1340,
@@ -1235,8 +1235,8 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "",
-    "ogp_image_url": "not_found",
-    "ogp_description": "not_found"
+    "ogp_image_url": "https://gloomy-official.com/images/og-image.jpg",
+    "ogp_description": "比較的凶暴なクマが世に放たれて、かれこれ20年。「いたずらぐまのグル～ミ～(グルーミー)」の20thオフィシャルサイトです。"
   },
   {
     "id": 1341,

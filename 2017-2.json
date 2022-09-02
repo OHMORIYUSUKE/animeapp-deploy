@@ -689,8 +689,8 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "",
-    "ogp_image_url": "not_found",
-    "ogp_description": "not_found"
+    "ogp_image_url": "https://www.nhk.or.jp/anime/rinne/images/og_image.jpg",
+    "ogp_description": "学園＆霊界ラブコメディー、第三幕！六道家の秘密が今、明らかに―　Eテレ 毎週日曜 午後6時30分から再放送！"
   },
   {
     "id": 552,
@@ -920,8 +920,8 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "",
-    "ogp_image_url": "not_found",
-    "ogp_description": "not_found"
+    "ogp_image_url": "http://sukasuka-anime.com/core_sys/images/others/ogp.jpg",
+    "ogp_description": "『終末なにしてますか？忙しいですか？救ってもらっていいですか？』各配信サイトにて好評配信中！「いま俺は、彼女たちの終わりに手を貸している」妖精兵器と呼ばれる少女たちと生き残った準勇者との儚くそして切ない物語。"
   },
   {
     "id": 563,
@@ -983,8 +983,8 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "",
-    "ogp_image_url": "http://eromanga-sensei.com/ogp2.png",
-    "ogp_description": "電撃文庫にて刊行中の「エロマンガ先生」がTVアニメ化決定！伏見つかさ×かんざきひろ「俺の妹がこんなに可愛いわけがない」のタッグが贈る新シリーズが2017年4月より放送開始！"
+    "ogp_image_url": "http://eromanga-sensei.com/ogp.png?220809",
+    "ogp_description": "『エロマンガ先生 Blu-ray Disc BOX』2023年1月25日(水)発売！伏見つかさ×かんざきひろ「俺の妹がこんなに可愛いわけがない」のタッグが贈る新シリーズ"
   },
   {
     "id": 566,
@@ -1067,7 +1067,7 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "",
-    "ogp_image_url": "http://www.aikatsu.net/img/og.jpg",
+    "ogp_image_url": "https://www.aikatsu.net/img/og.jpg",
     "ogp_description": "劇場でも、なりたい私へミラーイン☆「劇場版アイカツプラネット！」2022年7月15日公開！"
   }
 ]
