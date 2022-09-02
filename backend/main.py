@@ -33,7 +33,12 @@ def main():
     # JSONを取得
     response=requests.get('https://api.moemoe.tokyo/anime/v1/master/' + year + '/' + cool, headers=headers)
     # 取得したデータからJSONを取得
-    json_data = response.json()
+    try:
+        json_data = response.json()
+    except:
+        with open(year + '-' + cool + '.json', 'w') as f:
+            f.write(json.dumps({'message': 'no_data'}))
+            continue
     # print(json_data)
     if(len(json_data) == 0):
         print(json.dumps({'message': 'no_data'}))
