@@ -375,7 +375,7 @@
     "city_name": "",
     "product_companies": "",
     "ogp_image_url": "http://hoshiiro.jp/ogp.png",
-    "ogp_description": "TVアニメ「ポプテピピック TVアニメ―ション作品第二シリーズ」2022年10月放送予定！"
+    "ogp_description": "TVアニメ「ポプテピピック TVアニメ―ション作品第二シリーズ」2022年10月1日(土)より放送スタート！"
   },
   {
     "id": 692,
@@ -815,8 +815,8 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "",
-    "ogp_image_url": "http://www.tbs.co.jp/anime/takunomi/img/ogp.png",
-    "ogp_description": "TVアニメ「たくのみ。」の公式サイト。2018年1月よりTBS・BS-TBSにて放送開始！"
+    "ogp_image_url": "not_found",
+    "ogp_description": "not_found"
   },
   {
     "id": 713,
