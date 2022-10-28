@@ -290,8 +290,8 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "",
-    "ogp_image_url": "not_found",
-    "ogp_description": "not_found"
+    "ogp_image_url": "https://tales-ch.jp/images/common/img_talesch.jpg",
+    "ogp_description": "「テイルズチャンネル＋」は『テイルズ オブ』シリーズの公式ポータルサイトです。"
   },
   {
     "id": 379,
@@ -521,8 +521,8 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "",
-    "ogp_image_url": "not_found",
-    "ogp_description": "not_found"
+    "ogp_image_url": "http://www.cheer-boys.com/7DZXQzb4/wp-content/themes/cheerboys/common/img/ogp.png",
+    "ogp_description": "直木賞作家・朝井リョウの傑作青春小説がTVアニメ化！TVアニメ「チア男子!!」公式サイトです。"
   },
   {
     "id": 390,
