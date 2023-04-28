@@ -752,8 +752,8 @@
     "city_code": 0,
     "city_name": "",
     "product_companies": "",
-    "ogp_image_url": "not_found",
-    "ogp_description": "not_found"
+    "ogp_image_url": "http://www.yamajo-anime.com/wp-content/themes/jinr/lib/img/noimage.png",
+    "ogp_description": ""
   },
   {
     "id": 190,
